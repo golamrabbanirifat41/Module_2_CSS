@@ -26,7 +26,7 @@ h3{
 }
 .header{
     height: 800px;
-    background-image: url("../../images/front.jpg");
+    background-image: url("../front.jpg");
     text-align: center;
     /* background-repeat: repeat-x; */
     background-size: co;
